@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+gem 'github-pages', '>= 69'
 gem 'jekyll-docs'
